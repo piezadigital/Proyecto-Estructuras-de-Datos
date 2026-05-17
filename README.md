@@ -80,3 +80,7 @@ Ingresa el valor numérico a insertar: 50
 - Manejo de excepciones para entradas inválidas
 - Validación de nodos existentes antes de eliminar
 - Compatible con JDK 21 y versiones posteriores
+
+## Documentos Adjuntos
+
+- Dentro del repositorio del proyecto se encuentra el archivo "Fichas técnicas de estructuras arbóreas.pdf" el cual contiene información importante del detalle técnico de las estructuras investigadas.
